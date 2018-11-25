@@ -1,0 +1,28 @@
+/*Document doc = reader.document(7494);
+		IndexableField f = doc.getField("text_en");
+		System.out.println(f);*/
+		
+			//System.out.println(term.utf8ToString());
+			//System.out.println(termsenum.docFreq());
+			
+			/*//System.out.println("--------");
+			String st = term.toString();
+			String st1 = term.utf8ToString();
+			String output = st.replaceAll("\\s+",""); 
+			output = output.replaceAll("\\[", "").replaceAll("\\]","");
+
+			byte[] b = Hex.decodeHex(output.toCharArray());
+			String s = new String(b);
+			//String st = new String(bytes, "UTF-16");
+			System.out.println( st );
+			System.out.println( st1 );
+			System.out.println( output );
+			System.out.println( s );*/
+			
+			//		String str = "alguë";
+//		byte[] by = str.getBytes("UTF-16");
+//		System.out.println(new String(by, "UTF-16"));
+//		if(inverted_index.containsKey(new String(by, "UTF-16"))) {
+//			System.out.println("h");
+//			System.out.println(inverted_index.get(new String(by, "UTF-16")));
+//		}
